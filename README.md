@@ -1,10 +1,10 @@
 # PacketTracerLab
 ## Lab Reuirement
 ### First Lab
-![Lab-One](lab-images/lab-one.png)
+![Lab-One](https://github.com/toobamalaika/PacketTracerLab/blob/master/lab-images/lab-one.PNG)
 
 ### Third Lab
-![Lab-Three](lab-images/lab-three.png)
+![Lab-Three](https://github.com/toobamalaika/PacketTracerLab/blob/master/lab-images/lab-three.PNG)
 
 ### Four Lab
-![Lab-Four](lab-images/lab-four.png)
+![Lab-Four](https://github.com/toobamalaika/PacketTracerLab/blob/master/lab-images/lab-four.PNG)
